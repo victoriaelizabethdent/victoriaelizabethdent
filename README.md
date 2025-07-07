@@ -1,3 +1,4 @@
+###### she/her
 ```
                                        ,----,                                              
                                      ,/   .`|  ,----..                                     
@@ -14,10 +15,9 @@
      :   \ |;   |.' |   :    /     '---'      \   \ .'   :   : :-' ;   |.' |  | ,'         
       '---" '---'    \   \ .'                  `---`     |   |.'   '---'   `--''           
                       `---`                              `---'                             
-```                                                                                           
-a 3rd year BSc Politics and Data Science at the London School of Economics and Political Science (LSE).
+```
+BSc Politics and Data Science at the London School of Economics and Political Science (LSE).
 
-## Tools I Have Used and Learned
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>         
@@ -31,6 +31,24 @@ a 3rd year BSc Politics and Data Science at the London School of Economics and P
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="firebase" width="45" height="45"/>
 </p>
+
+
+I am currently completing an internship at the LSE, under the Department of Government's [Electoral Psychology Observatory](https://www.epob.org/), investigating the electoral atmosphere of the US and UK's 2024 elections. This involves ...
+
+
+add data visualisation
+
+...beginner knowledge of front and backend development from my OCR Computer Science Non-Examined Assessment (NEA), ...
+
+...HTML, CSS, JavaScript ...
+
+...proficiency in Python and R ...
+
+... data visualisation...
+
+...Backend as a Service(BaaS) (FIREBASE)...
+
+...SQL (Neo4j and MongoDB) ...
 
 <!--
 **victoriaelizabethdent/victoriaelizabethdent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
