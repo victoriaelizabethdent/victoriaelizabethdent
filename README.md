@@ -1,5 +1,5 @@
 ###### she/her
-```
+<pre><code>
                                        ,----,                                              
                                      ,/   .`|  ,----..                                     
                ,---,  ,----..      ,`   .'  : /   /   \  ,-.----.     ,---,   ,---,        
@@ -15,7 +15,8 @@
      :   \ |;   |.' |   :    /     '---'      \   \ .'   :   : :-' ;   |.' |  | ,'         
       '---" '---'    \   \ .'                  `---`     |   |.'   '---'   `--''           
                       `---`                              `---'                             
-```
+</code></pre>
+</div>
 BSc Politics and Data Science at the London School of Economics and Political Science (LSE).
 
 <p align="left">
