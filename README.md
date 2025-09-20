@@ -36,7 +36,7 @@ The projects I have completed at the LSE are collected in the repository above. 
 - [Are Gambling Outcomes Associated with Health Factors?](link)
 
   This project simulated an analysis for NHS England to develop a logistic regression model to predict susceptibility towards problem gambling. With a focus on health factors such as cigarette smoking status and BMI, the impact of confounding socio-economic, demographic, and lifestyle factors on the model's predictive ability were also explored.
-- [An Electoral Analysis of the 21st Century](link)
+- [An Electoral Analysis in the 21st Century](link)
 
   This project leveraged standard data from 193 countries recognised by the United Nations to explore trends, patterns, and dynamics in voter turnout, voting methods, and democracy trends in presidential and parliamentary institutions. Furthermore, this project includes an exploration of prediction polling accuracy and re-election trends.
 
