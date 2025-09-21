@@ -30,10 +30,10 @@ The projects I have completed at the LSE are collected in the repository above. 
 - [Exploring Regional Patterns of Moral Justification](link)
   
   This project explored global attitudes toward moral and ethical issues using Wave 7 of the World Values Survey (WVS) data. Various actions such as divorce, abortion, and political violence were analysed through descriptive statistics, similarity metrics, and clustering techniques. Using unsupervised modelling, patterns in moral reasoning and regional differences across countries were uncovered.
-- [What Life Factors Are Associated with Higher Incomes at 25?]([link](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/What%20Life%20Factors%20Are%20Associated%20with%20Higher%20Incomes%20at%2025%3F))
+- [What Life Factors Are Associated with Higher Incomes at 25?](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/What%20Life%20Factors%20Are%20Associated%20with%20Higher%20Incomes%20at%2025%3F)
 
   This project was a simulated analysis for the Department for Work and Pensions (DWP) and the Department for Education (DfE) to produce a statistical report and provide  literature-based policy recommendations once the life factors associated with high incomes at the age of 25 using linear regression were determined. These factors included parental education, socio-economic class, ethnicity, gender, and many more.
-- [Are Gambling Outcomes Associated with Health Factors?]([link](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/Are%20Gambling%20Outcomes%20Associated%20with%20Health%20Factors%3F))
+- [Are Gambling Outcomes Associated with Health Factors?](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/Are%20Gambling%20Outcomes%20Associated%20with%20Health%20Factors%3F)
 
   This project simulated an analysis for NHS England to develop a logistic regression model to predict susceptibility towards problem gambling. With a focus on health factors such as cigarette smoking status and BMI, the impact of confounding socio-economic, demographic, and lifestyle factors on the model's predictive ability were also explored.
 - [An Electoral Analysis in the 21st Century](link)
