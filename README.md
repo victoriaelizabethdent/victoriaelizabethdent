@@ -27,7 +27,7 @@ My OCR A-level Computer Science Non-Examined Assessment is publically available 
 💻 **LSE Data Science:** [LSE Undergraduate Coursework](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework). 
 
 The projects I have completed at the LSE are collected in the repository above. Highlights include:
-- [Exploring Regional Patterns of Moral Justification](link)
+- [Exploring Regional Patterns of Moral Justification](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/DS202A%3A%20Data%20Science%20for%20Social%20Scientists/Exploring%20Regional%20Patterns%20of%20Moral%20Justification)
   
   This project explored global attitudes toward moral and ethical issues using Wave 7 of the World Values Survey (WVS) data. Various actions such as divorce, abortion, and political violence were analysed through descriptive statistics, similarity metrics, and clustering techniques. Using unsupervised modelling, patterns in moral reasoning and regional differences across countries were uncovered.
 - [What Life Factors Are Associated with Higher Incomes at 25?](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/What%20Life%20Factors%20Are%20Associated%20with%20Higher%20Incomes%20at%2025%3F)
