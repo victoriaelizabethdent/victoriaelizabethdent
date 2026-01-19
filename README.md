@@ -9,12 +9,12 @@
 
 #### :books: Current Studies
 - DS205: Advanced Data Manipulation
+- AN395: Digital Anthropology
 - GV330: Data Science Applications to Political Science
 - GV335: African Political Economy
-- GV390: Department of Government Dissertation on the Legitimacy of Corporate Authority in Digital Societies                                                                 
+- GV390: Department of Government Dissertation on the Legitimacy of Corporate Authority in Digital Societies                                                              
 - GV3L6: Political Economy of Inequality
 - ST310: Machine Learning
-- ST311: Artifical Intelligence
 
 ### My Projects
 💻 **A-level Computer Science:** [Non-Examined Assessment](link).
