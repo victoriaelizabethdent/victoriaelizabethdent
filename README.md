@@ -4,7 +4,8 @@
 
 ### About Me
 #### :books: Industry Experience
-- IBM Consulting Associates Spotlight: Women in Tech
+- Head of Technology at [LSESU African Business Society](https://www.linkedin.com/company/lsesu-africa-business-society/people/)
+- IBM Consulting Associates Spotlight: Women in Technology
 - Summer 2025 Intern at the [Electoral Psychology Observatory](https://www.epob.org/), under LSE's Department of Government.
 
 #### :books: Current Studies
