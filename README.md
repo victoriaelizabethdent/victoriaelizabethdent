@@ -28,6 +28,9 @@ My OCR A-level Computer Science Non-Examined Assessment is publically available 
 💻 **LSE Data Science:** [LSE Undergraduate Coursework](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework). 
 
 The projects I have completed at the LSE are collected in the repository above. Highlights include:
+- [How Ultra-Processed is the Supermarket Shelf?](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/3rd%20Year%20(2025-26)/DS205%3A%20Applied%20Data%20Science/How%20Ultra-Processed%20is%20the%20Supermarket%20Shelf%3F)
+  
+  This project investigated the prevalence of ultra-processed foods (UPFs) in online grocery retail, using Waitrose as a case study. It was completed as part of a collaborative handoff model, mirroring professional data product development: Part A involved building a Scrapy-based web scraper to collect product data from the Waitrose website; Part B involved wrapping that data in a FastAPI system with NOVA group classification and identification of the nearest non-UPF alternative for any given UPF item.
 - [Exploring Regional Patterns of Moral Justification](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/DS202A%3A%20Data%20Science%20for%20Social%20Scientists/Exploring%20Regional%20Patterns%20of%20Moral%20Justification)
   
   This project explored global attitudes toward moral and ethical issues using Wave 7 of the World Values Survey (WVS) data. Various actions such as divorce, abortion, and political violence were analysed through descriptive statistics, similarity metrics, and clustering techniques. Using unsupervised modelling, patterns in moral reasoning and regional differences across countries were uncovered.
@@ -37,7 +40,7 @@ The projects I have completed at the LSE are collected in the repository above. 
 - [Are Gambling Outcomes Associated with Health Factors?](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST211%3A%20Applied%20Regression/Are%20Gambling%20Outcomes%20Associated%20with%20Health%20Factors%3F)
 
   This project simulated an analysis for NHS England to develop a logistic regression model to predict susceptibility towards problem gambling. With a focus on health factors such as cigarette smoking status and BMI, the impact of confounding socio-economic, demographic, and lifestyle factors on the model's predictive ability were also explored.
-- [An Electoral Analysis in the 21st Century](link)
+- [An Electoral Analysis in the 21st Century]([link](https://github.com/victoriaelizabethdent/LSE-Undergraduate-Coursework/tree/main/2nd%20Year%20(2024-25)/ST207%3A%20Databases/An%20Electoral%20Analysis%20of%20the%2021st%20Century))
 
   This project leveraged standard data from 193 countries recognised by the United Nations to explore trends, patterns, and dynamics in voter turnout, voting methods, and democracy trends in presidential and parliamentary institutions. Furthermore, this project includes an exploration of prediction polling accuracy and re-election trends.
 
