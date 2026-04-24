@@ -45,6 +45,7 @@ The projects I have completed at the LSE are collected in the repository above. 
   This project leveraged standard data from 193 countries recognised by the United Nations to explore trends, patterns, and dynamics in voter turnout, voting methods, and democracy trends in presidential and parliamentary institutions. Furthermore, this project includes an exploration of prediction polling accuracy and re-election trends.
 
 ### Languages, Frameworks, Tools, and Technologies
+
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="vscode" width="45" height="45"/>         
